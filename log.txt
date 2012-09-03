@@ -1,0 +1,36 @@
+Array
+(
+    [mc_gross] => 0.01
+    [invoice] => 5540784
+    [protection_eligibility] => Ineligible
+    [payer_id] => Q6GMST2ZKP63J
+    [tax] => 0.00
+    [payment_date] => 09:21:33 Sep 02, 2012 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [first_name] => Ovidiu
+    [mc_fee] => 0.01
+    [notify_version] => 3.6
+    [custom] => 
+    [payer_status] => verified
+    [business] => payments@eleanorruse.com
+    [quantity] => 1
+    [verify_sign] => AfUO4rOjsa1Thd0hgClTjCcWMlcdA09PHCYbOCFuSOGW4EI014.OV6-u
+    [payer_email] => codebreaker_boy07@yahoo.com
+    [txn_id] => 54U0592279492282F
+    [payment_type] => instant
+    [last_name] => Nunca
+    [receiver_email] => payments@eleanorruse.com
+    [payment_fee] => 0.01
+    [receiver_id] => 4WXW2VGAAGWMG
+    [txn_type] => web_accept
+    [item_name] => The Authority Blogging Formula 2.0
+    [mc_currency] => USD
+    [item_number] => wso_hp1jkm_5540784
+    [residence_country] => RO
+    [handling_amount] => 0.00
+    [transaction_subject] => The Authority Blogging Formula 2.0
+    [payment_gross] => 0.01
+    [shipping] => 0.00
+    [ipn_track_id] => 8e4402184a368
+)
